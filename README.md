@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShivanshVikramSingh
-- 👀 I’m interested in coding, exploring and playing.
+- 👀 I’m interested in coding, exploring and playing games.
 - 🌱 I’m currently learning c++ and persuing B.Tech with IT in IIIT Bhopal.
 - 💞️ I’m looking for internship.
 - 📫 You can reach me at shivanshvikramsingh764@gmail.com
